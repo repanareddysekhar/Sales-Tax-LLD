@@ -13,5 +13,6 @@ Requirements:
 The models in the project would be:
 Product - [BOOK, MEDICAL, FOOD, OTHER]
 --> Design pattern used to create Products models: Factory Design Pattern
+
 TaxCalculator - [SalesTaxCalculator, ImportTaxCalculator]
 --> Design pattern used to create Taxcalculator models: Decorator(wrapper)

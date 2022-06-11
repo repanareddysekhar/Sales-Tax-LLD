@@ -17,3 +17,8 @@ Product - [BOOK, MEDICAL, FOOD, OTHER]
 
 TaxCalculator - [SalesTaxCalculator, ImportTaxCalculator]
 --> Design pattern used to create Taxcalculator models: Decorator(wrapper)
+
+
+RUN Project:
+Download the project zip and open in any Java IDE preferebly IntelliJ 
+and run SalesTaxDriver.java
